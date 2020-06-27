@@ -1,1 +1,1 @@
-Assignments of server-side developement of nodejs, express, and mongoDB. 
+Assignments of server-side developement with nodejs, express, and mongoDB. 
